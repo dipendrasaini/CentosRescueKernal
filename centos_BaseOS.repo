@@ -1,0 +1,4 @@
+[centos_BaseOS]
+name=created by dnf config-manager from file:///centos/BaseOS
+baseurl=file:///centos/BaseOS
+enabled=1

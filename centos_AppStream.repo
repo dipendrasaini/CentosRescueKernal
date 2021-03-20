@@ -1,0 +1,4 @@
+[centos_AppStream]
+name=created by dnf config-manager from file:///centos/AppStream
+baseurl=file:///centos/AppStream
+enabled=1
